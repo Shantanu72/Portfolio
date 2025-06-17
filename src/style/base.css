@@ -1,0 +1,37 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;500&family=Montserrat:wght@500&display=swap');
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+::selection {
+  background: #5eead4;
+  color: #0f172a;
+}
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #0f172a;
+  color:#94a3b8;
+  overflow-x: hidden;
+  
+}
+.cursor{
+top:0px;
+left:0px;
+width: 1000px;
+height:1000px;
+border-radius: 50%;
+position:absolute;
+backdrop-filter: brightness(5px);
+transform:translate(-50%,-50%);
+background: radial-gradient(
+#0b357e5d 10%,
+#0c2a5e54 40%,
+#0f172a 70%
+);
+z-index:-1;
+pointer-events:fill;
+
+}
+

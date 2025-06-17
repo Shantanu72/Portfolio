@@ -1,0 +1,77 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Build a Blogging Website",
+      "type": "Fullstack Project",
+      "description": "Developed and Implemented RESTful API using Express JS. Designed an interactive and responsive user interface utilizing Tailwind CSS and React JS. Utilized MongoDB to store user data, facilitating blog content creation, reading, and editing.",
+      "technologies": ["MongoDB", "ExpressJS", "ReactJS", "NodeJS", "Tailwind"],
+      "githubUrl": "https://github.com/HJoshi012802/Blogit-",
+      "image": "blog.jpg",
+      "imageAlt": "Blogging Website",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Spotify App using Spotify API",
+      "type": "Frontend Project",
+      "description": "Created a Web App to fetch user Weekly Discovery Playlists from the Spotify API. Utilized Context-API to eliminate prop-drilling.",
+      "technologies": ["ReactJS", "CSS", "Spotify API", "React Context API"],
+      "githubUrl": "https://github.com/HJoshi012802/Spotify-Clone-using-Spotify-API",
+      "image": "spotify.jpg",
+      "imageAlt": "Spotify Clone",
+      "featured": false
+    },
+    {
+      "id": 3,
+      "title": "Store API",
+      "type": "Backend Project",
+      "description": "Developed a Home Decor Store API using Node.js, Express, and MongoDB, with Postman aiding API development and testing. Key components include controllers, db, middleware, models, and routes.",
+      "technologies": ["NodeJS", "ExpressJS", "MongoDB", "Postman"],
+      "githubUrl": "https://github.com/HJoshi012802/Store-API",
+      "image": "store.jpg",
+      "imageAlt": "Store API",
+      "featured": true
+    },
+    {
+      "id": 4,
+      "title": "Open Weather App",
+      "type": "Frontend Project",
+      "description": "Developed a weather forecasting website with real-time data from Open Weather Map API, featuring error handling for user-friendliness.",
+      "technologies": ["ReactJS", "CSS", "JavaScript", "Axion"],
+      "githubUrl": "https://github.com/HJoshi012802/Open-Weather-App",
+      "image": "weather.jpg",
+      "imageAlt": "Open Weather App",
+      "featured": false
+    }
+  ],
+  "experiences": [
+    {
+      "id": 1,
+      "year": "2022-2022",
+      "company": "EventDesu",
+      "position": "Frontend Intern",
+      "role": "Engineer",
+      "description": "I acquired valuable experience in collaborating with a team to develop a commercial website. Event Desu is a Startup in Tokyo, Japan which is a aggregator service for the entertainment industry whereby it assist people with information and ticketing for various events across many cities all over Japan.",
+      "technologies": ["HTML", "CSS", "JavaScript", "Tailwind", "Flutter", "React.js"]
+    },
+    {
+      "id": 2,
+      "year": "OCT 2023",
+      "company": "Open-Source",
+      "position": "Hacktoberfest",
+      "role": "Contributor/Maintainer",
+      "description": "Participating in Hacktoberfest as a contributor and maintainer was a rewarding journey. I enjoyed collaborating with the open-source community, submitting valuable pull requests, and helping others improve their coding skills. It was a fantastic learning experience.",
+      "technologies": ["UI", "CSS", "JavaScript", "Java", "Git/GitHub", "React.js"]
+    },
+    {
+      "id": 3,
+      "year": "2021-2024",
+      "company": "Theater Club DITU",
+      "position": "Head of Scripting Team",
+      "role": "Artist",
+      "description": "My main focus these days is building products and leading projects for our clients at Upstatement. In my free time I've also released an online video course that covers everything you need to know to build a web app with the Spotify API.",
+      "technologies": ["Acting", "Writing", "Scripting", "Screenplay"]
+    }
+  ]
+}

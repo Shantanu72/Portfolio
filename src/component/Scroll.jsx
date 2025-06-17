@@ -8,9 +8,9 @@ function Scroll(){
     return(
       <div className='scroll-section'>
       <About/>
-      <Experience/>
       <Projects/>
-      <Writting/>
+      <Experience/>
+      {/* <Writting/> */}
       </div>
     );
 }

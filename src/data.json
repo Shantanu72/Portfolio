@@ -2,93 +2,93 @@
   "projects": [
     {
       "id": 1,
-      "title": "Build a Blogging Website",
-      "type": "Fullstack Project",
-      "description": "Developed and Implemented RESTful API using Express JS. Designed an interactive and responsive user interface utilizing Tailwind CSS and React JS. Utilized MongoDB to store user data, facilitating blog content creation, reading, and editing.",
-      "technologies": ["MongoDB", "ExpressJS", "ReactJS", "NodeJS", "Tailwind"],
-      "githubUrl": "https://github.com/HJoshi012802/Blogit-",
-      "image": "blog.jpg",
-      "imageAlt": "Blogging Website",
-      "featured": true
+      "title": "Christmas Battle",
+      "type": "2D Shooter Tower Defence",
+      "description": "A 2D Christmas-themed shooter tower defense game where you play as Santa Claus, defending his cattle barn full of gifts from waves of goblin-like enemies. Santa uses snowballs to stop the enemies before they steal the presents. The game features 7 unique enemy types, a wave-based system, and a coin-based upgrade system that lets you enhance Santa’s abilities by defeating enemies and collecting coins.",
+      "technologies": ["Unity", "C#"],
+      "image": "blog.jpg"
     },
     {
       "id": 2,
-      "title": "Spotify App using Spotify API",
-      "type": "Frontend Project",
-      "description": "Created a Web App to fetch user Weekly Discovery Playlists from the Spotify API. Utilized Context-API to eliminate prop-drilling.",
-      "technologies": ["ReactJS", "CSS", "Spotify API", "React Context API"],
-      "githubUrl": "https://github.com/HJoshi012802/Spotify-Clone-using-Spotify-API",
-      "image": "spotify.jpg",
-      "imageAlt": "Spotify Clone",
-      "featured": false
+      "title": "The Lost Color",
+      "type": "2D Action Platformer",
+      "description": "A 2D action platformer based on a color-themed world where some platforms are vibrant while others are blacked out. Players must shoot enemies, collect stars and coins, and reach the end of each level. The game features enemy AI that follows and attacks the player, boss battles, and arena-style combat sections in every level for added challenge.",
+      "technologies": ["Unity", "C#"],
+      "image": "spotify.jpg"
     },
     {
       "id": 3,
-      "title": "Store API",
-      "type": "Backend Project",
-      "description": "Developed a Home Decor Store API using Node.js, Express, and MongoDB, with Postman aiding API development and testing. Key components include controllers, db, middleware, models, and routes.",
-      "technologies": ["NodeJS", "ExpressJS", "MongoDB", "Postman"],
-      "githubUrl": "https://github.com/HJoshi012802/Store-API",
-      "image": "store.jpg",
-      "imageAlt": "Store API",
-      "featured": true
+      "title": "Egg Drop",
+      "type": "Casual",
+      "description": "A fun and casual egg-dropping game where eggs fall from the sky and you must tap to bounce them safely into the nest. Avoid hitting platforms or the egg will crack and break! Collect power-ups during gameplay and unlock new egg skins from the in-game shop and is integrated with Firebase Remote Config for dynamic content and feature control.\nA WebGL demo is also available to play online.",
+      "technologies": ["Unity", "C#"],
+      "image": "store.jpg"
     },
     {
       "id": 4,
+      "title": "Mystic Find",
+      "type": "Hidden Object Puzzle",
+      "description": "A hidden object puzzle game where players are shown an image filled with various items, and must find and tap specific hidden objects within the scene. The game includes a hint system to help players when they get stuck. It features in-app purchases (IAP) for hints or unlocks, notifications to keep players engaged, and is integrated with Firebase Remote Config for dynamic content and feature control.",
+      "technologies": ["Unity", "C#"],
+      "image": "weather.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Zig Zag Zone",
+      "type": "Arcade",
+      "description": "A collection of three different zig-zag style platformer games, each offering a unique twist on the core mechanic. Players control a moving ball and must tap to avoid obstacles and navigate challenging paths. The game also includes a profile system to track progress, high scores, and unlockables across all three game modes.",
+      "technologies": ["Unity", "C#"],
+      "image": "weather.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Tap Tap Ball",
+      "type": "Casual",
+      "description": "A simple and addictive basketball-style tap game where you tap to shoot the ball into the hoop. After each successful goal, the hoop switches sides — from right to left and back — creating a continuous loop. The challenge increases with speed and timing, making it a fun test of precision and rhythm.",
+      "technologies": ["Unity", "C#"],
+      "image": "weather.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Boingy Rabbit",
+      "type": "Casual",
+      "description": "Developed a weather forecasting website with real-time data from Open Weather Map API, featuring error handling for user-friendliness.",
+      "technologies": ["Unity", "C#"],
+      "image": "weather.jpg"
+    },
+    {
+      "id": 8,
       "title": "Open Weather App",
       "type": "Frontend Project",
       "description": "Developed a weather forecasting website with real-time data from Open Weather Map API, featuring error handling for user-friendliness.",
-      "technologies": ["ReactJS", "CSS", "JavaScript", "Axion"],
-      "githubUrl": "https://github.com/HJoshi012802/Open-Weather-App",
-      "image": "weather.jpg",
-      "imageAlt": "Open Weather App",
-      "featured": false
+      "technologies": ["Unity", "C#"],
+      "image": "weather.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Open Weather App",
+      "type": "Frontend Project",
+      "description": "Developed a weather forecasting website with real-time data from Open Weather Map API, featuring error handling for user-friendliness.",
+      "technologies": ["Unity", "C#"],
+      "image": "weather.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Open Weather App",
+      "type": "Frontend Project",
+      "description": "Developed a weather forecasting website with real-time data from Open Weather Map API, featuring error handling for user-friendliness.",
+      "technologies": ["Unity", "C#"],
+      "image": "weather.jpg"
     }
   ],
   "experiences": [
     {
       "id": 1,
-      "year": "2022-2022",
-      "company": "EventDesu",
-      "position": "Frontend Intern",
-      "role": "Engineer",
-      "description": "I acquired valuable experience in collaborating with a team to develop a commercial website. Event Desu is a Startup in Tokyo, Japan which is a aggregator service for the entertainment industry whereby it assist people with information and ticketing for various events across many cities all over Japan.",
-      "technologies": ["HTML", "CSS", "JavaScript", "Tailwind", "Flutter", "React.js"]
-    },
-    {
-      "id": 2,
-      "year": "OCT 2023",
-      "company": "Open-Source",
-      "position": "Hacktoberfest",
-      "role": "Contributor/Maintainer",
-      "description": "Participating in Hacktoberfest as a contributor and maintainer was a rewarding journey. I enjoyed collaborating with the open-source community, submitting valuable pull requests, and helping others improve their coding skills. It was a fantastic learning experience.",
-      "technologies": ["UI", "CSS", "JavaScript", "Java", "Git/GitHub", "React.js"]
-    },
-    {
-      "id": 3,
-      "year": "2021-2024",
-      "company": "Theater Club DITU",
-      "position": "Head of Scripting Team",
-      "role": "Artist",
-      "description": "My main focus these days is building products and leading projects for our clients at Upstatement. In my free time I've also released an online video course that covers everything you need to know to build a web app with the Spotify API.",
-      "technologies": ["Acting", "Writing", "Scripting", "Screenplay"]
+      "year": "Dec 2022 - present",
+      "company": "Rareprob Solution Private Limited",
+      "position": "Unity Game Developer",
+      "description": "Experienced Unity Game Developer with expertise in developing both 2D and 3D games for WebGL and native platforms. Proficient in Firebase integration, ads implementation, and optimizing games for performance and memory efficiency. Skilled in creating universal packages for modular development. Strong creative sense in designing unique gameplay, engaging storylines, and thematic game worlds. Experienced in terrain creation for 3D environments and animation systems using Unity's Timeline and DOTween for smooth character and UI animations. Also well-versed in building physics systems and delivering polished user experiences across platforms.",
+      "technologies": ["Unity", "C#"]
     }
-  ],
-  "about": {
-    "title": "ABOUT",
-    "paragraphs": [
-      {
-        "id": 1,
-        "content": "In 2012, my family and I had an unforgettable trip to the Taj Mahal. We got a new camera to capture the special moments, but unfortunately, I accidentally deleted all the photos, leading to a scolding and a profound sense of guilt. This incident sparked my passion for computer science, pushing me to explore digital data recovery to retrieve those lost memories. Since then, I've been captivated by the limitless possibilities and innovations that the world of computer science has to offer."
-      },
-      {
-        "id": 2,
-        "content": "My main focus these days is strengthening my computer science skills, specializing in web technology. I'm always up for thrilling coding adventures, aiming to gain expertise and expand my knowledge. In my free time I enjoy writing blogs on computer science and emerging web technologies."
-      },
-      {
-        "id": 3,
-        "content": "When I'm not at the computer, I'm usually playing football, hanging out with my friends and family, or running around Dehradun & Mussoorie searching for a new places to explore."
-      }
-    ]
-  }
+  ]
 }

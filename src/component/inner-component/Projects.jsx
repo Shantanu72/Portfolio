@@ -8,7 +8,7 @@ import spotify from '../img/spotify.jpg';
 import store from '../img/store.jpg';
 import weather from '../img/weather.jpg';
 
-// Create image map for dynamic imports
+// Image map
 const imageMap = {
   'blog.jpg': blog,
   'spotify.jpg': spotify,
@@ -37,22 +37,13 @@ function Projects() {
             <a href={project.githubUrl}>
               <h3>
                 {project.title}
-                <span className='arrow'>
-                  <HiMiniArrowTrendingUp />
-                </span>
               </h3>
             </a>
-            
+
             <h4>{project.type}</h4>
             <p>{project.description}</p>
-            
-            <div className="shot-language">
-              {project.technologies.map((tech, index) => (
-                <span key={index}>{tech}</span>
-              ))}
-            </div>
-            
-            <div className="image">
+
+             <div className="image">
               <img 
                 className="img" 
                 src={imageMap[project.image]} 
@@ -60,6 +51,38 @@ function Projects() {
               />
             </div>
             
+            <div className="shot-language">
+              {project.technologies.map((tech, index) => (
+                <span key={index}>{tech}</span>
+              ))}
+            </div>
+
+           
+            
+             {/* New buttons */}
+            <div className="project-buttons">
+              {project.playstoreUrl && (
+                <a 
+                  href={project.playstoreUrl} 
+                  target="_blank" 
+                  rel="noopener noreferrer" 
+                  className="btn playstore-btn glass"
+                >
+                  Playstore
+                </a>
+              )}
+              {project.playUrl && (
+                <a 
+                  href={project.playUrl} 
+                  target="_blank" 
+                  rel="noopener noreferrer" 
+                  className="btn playonline-btn"
+                >
+                  Play Online
+                </a>
+              )}
+            </div>
+
             {project.featured && (
               <div className='bookmark-icon'>
                 <BsFillBookmarkStarFill />

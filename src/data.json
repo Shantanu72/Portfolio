@@ -31,7 +31,7 @@
       "type": "2D Shooter Tower Defence",
       "description": "A 2D Christmas-themed shooter tower defense game where you play as Santa Claus, defending his cattle barn full of gifts from waves of goblin-like enemies. Santa uses snowballs to stop the enemies before they steal the presents. The game features 7 unique enemy types, a wave-based system, and a coin-based upgrade system that lets you enhance Santa’s abilities by defeating enemies and collecting coins.",
       "technologies": ["Unity", "C#"],
-      "image": "blog.jpg",
+      "image": "./blog.jpg",
       "playstoreUrl": "https://play.google.com/store/apps/details?id=com.example",
       "playUrl": "https://example.com/play",
       "video":"https://youtube.com/play"
@@ -42,7 +42,7 @@
       "type": "2D Action Platformer",
       "description": "A 2D action platformer based on a color-themed world where some platforms are vibrant while others are blacked out. Players must shoot enemies, collect stars and coins, and reach the end of each level. The game features enemy AI that follows and attacks the player, boss battles, and arena-style combat sections in every level for added challenge.",
       "technologies": ["Unity", "C#"],
-      "image": "spotify.jpg",
+      "image": "./spotify.jpg",
       "playstoreUrl": "https://play.google.com/store/apps/details?id=com.example",
       "playUrl": "https://example.com/play",
       "video":"https://youtube.com/play"
@@ -53,7 +53,7 @@
       "type": "Casual",
       "description": "A fun and casual egg-dropping game where eggs fall from the sky and you must tap to bounce them safely into the nest. Avoid hitting platforms or the egg will crack and break! Collect power-ups during gameplay and unlock new egg skins from the in-game shop and is integrated with Firebase Remote Config for dynamic content and feature control.\nA WebGL demo is also available to play online.",
       "technologies": ["Unity", "C#"],
-      "image": "store.jpg",
+      "image": "./store.jpg",
       "playstoreUrl": "https://play.google.com/store/apps/details?id=com.example",
       "playUrl": "https://example.com/play",
       "video":"https://youtube.com/play"
@@ -64,7 +64,7 @@
       "type": "Hidden Object Puzzle",
       "description": "A hidden object puzzle game where players are shown an image filled with various items, and must find and tap specific hidden objects within the scene. The game includes a hint system to help players when they get stuck. It features in-app purchases (IAP) for hints or unlocks, notifications to keep players engaged, and is integrated with Firebase Remote Config for dynamic content and feature control.",
       "technologies": ["Unity", "C#"],
-      "image": "weather.jpg",
+      "image": "././weather.jpg",
       "playstoreUrl": "https://play.google.com/store/apps/details?id=com.example",
       "playUrl": "https://example.com/play",
       "video":"https://youtube.com/play"
@@ -75,7 +75,7 @@
       "type": "Arcade",
       "description": "A collection of three different zig-zag style platformer games, each offering a unique twist on the core mechanic. Players control a moving ball and must tap to avoid obstacles and navigate challenging paths. The game also includes a profile system to track progress, high scores, and unlockables across all three game modes.",
       "technologies": ["Unity", "C#"],
-      "image": "weather.jpg",
+      "image": "./weather.jpg",
       "playstoreUrl": "https://play.google.com/store/apps/details?id=com.example",
       "playUrl": "https://example.com/play",
       "video":"https://youtube.com/play"
@@ -86,7 +86,7 @@
       "type": "Casual",
       "description": "A simple and addictive basketball-style tap game where you tap to shoot the ball into the hoop. After each successful goal, the hoop switches sides — from right to left and back — creating a continuous loop. The challenge increases with speed and timing, making it a fun test of precision and rhythm.",
       "technologies": ["Unity", "C#"],
-      "image": "weather.jpg",
+      "image": "./weather.jpg",
       "playUrl": "https://example.com/play"
    
     },
@@ -96,7 +96,7 @@
       "type": "Casual",
       "description": "Developed a weather forecasting website with real-time data from Open Weather Map API, featuring error handling for user-friendliness.",
       "technologies": ["Unity", "C#"],
-      "image": "weather.jpg",
+      "image": "./weather.jpg",
       "playstoreUrl": "https://play.google.com/store/apps/details?id=com.example"
     },
     {
@@ -105,7 +105,7 @@
       "type": "Frontend Project",
       "description": "Developed a weather forecasting website with real-time data from Open Weather Map API, featuring error handling for user-friendliness.",
       "technologies": ["Unity", "C#"],
-      "image": "weather.jpg",
+      "image": "./weather.jpg",
       "playUrl": "https://example.com/play",
       "video":"https://youtube.com/play"
     },
@@ -115,7 +115,7 @@
       "type": "Frontend Project",
       "description": "Developed a weather forecasting website with real-time data from Open Weather Map API, featuring error handling for user-friendliness.",
       "technologies": ["Unity", "C#"],
-      "image": "weather.jpg",
+      "image": "./weather.jpg",
       "playstoreUrl": "https://play.google.com/store/apps/details?id=com.example",
       "playUrl": "https://example.com/play"
     },
@@ -125,7 +125,7 @@
       "type": "Frontend Project",
       "description": "Developed a weather forecasting website with real-time data from Open Weather Map API, featuring error handling for user-friendliness.",
       "technologies": ["Unity", "C#"],
-      "image": "weather.jpg",
+      "image": "./weather.jpg",
       "playstoreUrl": "https://play.google.com/store/apps/details?id=com.example",
       "video":"https://youtube.com/play"
     }

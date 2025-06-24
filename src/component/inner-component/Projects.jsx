@@ -2,18 +2,18 @@ import { BsFillBookmarkStarFill } from 'react-icons/bs';
 import projectsData from '../../data.json';
 
 // Import images
-import blog from '../img/blog.jpg';
-import spotify from '../img/spotify.jpg';
-import store from '../img/store.jpg';
-import weather from '../img/weather.jpg';
+// import blog from '../img/blog.jpg';
+// import spotify from '../img/spotify.jpg';
+// import store from '../img/store.jpg';
+// import weather from '../img/weather.jpg';
 
-// Image map
-const imageMap = {
-  'blog.jpg': blog,
-  'spotify.jpg': spotify,
-  'store.jpg': store,
-  'weather.jpg': weather
-};
+// // Image map
+// const imageMap = {
+//   'blog.jpg': blog,
+//   'spotify.jpg': spotify,
+//   'store.jpg': store,
+//   'weather.jpg': weather
+// };
 
 function Projects() {
   return (
@@ -27,7 +27,7 @@ function Projects() {
           <div className="project-image">
             <img 
               className="img" 
-              src={imageMap[project.image]} 
+              src={project.image} 
               alt={project.imageAlt}
             />
           </div>
@@ -45,7 +45,7 @@ function Projects() {
              <div className="image">
               <img 
                 className="img" 
-                src={imageMap[project.image]} 
+                src={project.image} 
                 alt={project.imageAlt}
               />
             </div>

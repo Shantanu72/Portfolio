@@ -1,4 +1,3 @@
-import { HiMiniArrowTrendingUp } from 'react-icons/hi2';
 import { BsFillBookmarkStarFill } from 'react-icons/bs';
 import projectsData from '../../data.json';
 
@@ -79,6 +78,16 @@ function Projects() {
                   className="btn playonline-btn"
                 >
                   Play Online
+                </a>
+              )}
+               {project.video && (
+                <a 
+                  href={project.video} 
+                  target="_blank" 
+                  rel="noopener noreferrer" 
+                  className="btn playonline-btn"
+                >
+                  Watch Video
                 </a>
               )}
             </div>

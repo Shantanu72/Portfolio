@@ -26,6 +26,7 @@ function Sidebar() {
             {/* <Link to="#"><span className='first'>ABOUT</span></Link> */}
             <Link to="#project"><span className='third'>PROJECTS</span></Link>
             <Link to="#experience"><span className='second'>EXPERIENCE</span></Link>
+            <Link to="#videos"><span className='second'>DEMO VIDEOS</span></Link>
           </div>
         </nav>
       </div>

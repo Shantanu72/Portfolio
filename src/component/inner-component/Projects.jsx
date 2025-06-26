@@ -1,20 +1,6 @@
 import { BsFillBookmarkStarFill } from 'react-icons/bs';
 import projectsData from '../../data.json';
 
-// Import images
-// import blog from '../img/blog.jpg';
-// import spotify from '../img/spotify.jpg';
-// import store from '../img/store.jpg';
-// import weather from '../img/weather.jpg';
-
-// // Image map
-// const imageMap = {
-//   'blog.jpg': blog,
-//   'spotify.jpg': spotify,
-//   'store.jpg': store,
-//   'weather.jpg': weather
-// };
-
 function Projects() {
   return (
     <section className="project-section" id='project'>
@@ -58,14 +44,13 @@ function Projects() {
 
            
             
-             {/* New buttons */}
             <div className="project-buttons">
               {project.playstoreUrl && (
                 <a 
                   href={project.playstoreUrl} 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="btn playstore-btn glass"
+                  className="btn"
                 >
                   Playstore
                 </a>
@@ -75,9 +60,9 @@ function Projects() {
                   href={project.playUrl} 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="btn playonline-btn"
+                  className="btn"
                 >
-                  Play Online
+                  Online
                 </a>
               )}
                {project.video && (
@@ -85,9 +70,9 @@ function Projects() {
                   href={project.video} 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="btn playonline-btn"
+                  className="btn"
                 >
-                  Watch Video
+                  Video
                 </a>
               )}
             </div>

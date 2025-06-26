@@ -22,18 +22,18 @@ export function Video() {
 
       {videoData.demo_video.map((video) => (
         <div key={video.id} className="experience">
-          <div className="project-image" onClick={() => setSelectedVideo(video)}>
-            <img
-              className="img"
-              src={getYoutubeThumbnail(video.youtubeUrl)}
-              alt={video.title}
-            />
-          </div>
+  <div className="video-image" onClick={() => setSelectedVideo(video)}>
+    <img
+      className="video-img"
+      src={getYoutubeThumbnail(video.youtubeUrl)}
+      alt={video.title}
+    />
+  </div>
 
-          <div className="description">
-            <h3>{video.title}</h3>
-          </div>
-        </div>
+  <div className="video-description">
+    <h3 className="video-title">{video.title}</h3>
+  </div>
+</div>
       ))}
 
       {selectedVideo && (

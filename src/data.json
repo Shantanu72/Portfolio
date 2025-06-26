@@ -93,15 +93,15 @@
     {
       "id": 7,
       "title": "Boingy Rabbit",
-      "type": "Casual",
-      "description": "Developed a weather forecasting website with real-time data from Open Weather Map API, featuring error handling for user-friendliness.",
+      "type": "Arcade",
+      "description": "A fun and challenging tap-based arcade game where a rabbit bounces between two strings, moving only up and down. Tap to switch the rabbit’s position and avoid incoming stones and obstacles. Timing and quick reflexes are key to surviving and scoring high!",
       "technologies": ["Unity", "C#"],
       "image": "./weather.jpg",
       "playstoreUrl": "https://play.google.com/store/apps/details?id=com.example"
     },
     {
       "id": 8,
-      "title": "Open Weather App",
+      "title": "Bubble Shooter",
       "type": "Frontend Project",
       "description": "Developed a weather forecasting website with real-time data from Open Weather Map API, featuring error handling for user-friendliness.",
       "technologies": ["Unity", "C#"],
@@ -111,7 +111,7 @@
     },
     {
       "id": 9,
-      "title": "Open Weather App",
+      "title": "Bounce ball",
       "type": "Frontend Project",
       "description": "Developed a weather forecasting website with real-time data from Open Weather Map API, featuring error handling for user-friendliness.",
       "technologies": ["Unity", "C#"],
@@ -121,7 +121,57 @@
     },
     {
       "id": 10,
-      "title": "Open Weather App",
+      "title": "Space Shooter (In Production)",
+      "type": "Frontend Project",
+      "description": "Developed a weather forecasting website with real-time data from Open Weather Map API, featuring error handling for user-friendliness.",
+      "technologies": ["Unity", "C#"],
+      "image": "weather.jpg",
+      "playstoreUrl": "https://play.google.com/store/apps/details?id=com.example",
+      "video":"https://youtube.com/play"
+    },
+    {
+      "id": 11,
+      "title": "Fruit Merge (Demo)",
+      "type": "Frontend Project",
+      "description": "Developed a weather forecasting website with real-time data from Open Weather Map API, featuring error handling for user-friendliness.",
+      "technologies": ["Unity", "C#"],
+      "image": "weather.jpg",
+      "playstoreUrl": "https://play.google.com/store/apps/details?id=com.example",
+      "video":"https://youtube.com/play"
+    },
+    {
+      "id": 12,
+      "title": "Fist Fight (Demo)",
+      "type": "Frontend Project",
+      "description": "Developed a weather forecasting website with real-time data from Open Weather Map API, featuring error handling for user-friendliness.",
+      "technologies": ["Unity", "C#"],
+      "image": "weather.jpg",
+      "playstoreUrl": "https://play.google.com/store/apps/details?id=com.example",
+      "video":"https://youtube.com/play"
+    },
+    {
+      "id": 13,
+      "title": "Zombie Shooter (Demo)",
+      "type": "Frontend Project",
+      "description": "Developed a weather forecasting website with real-time data from Open Weather Map API, featuring error handling for user-friendliness.",
+      "technologies": ["Unity", "C#"],
+      "image": "weather.jpg",
+      "playstoreUrl": "https://play.google.com/store/apps/details?id=com.example",
+      "video":"https://youtube.com/play"
+    },
+    {
+      "id": 14,
+      "title": "3d Fighting (Demo)",
+      "type": "Frontend Project",
+      "description": "Developed a weather forecasting website with real-time data from Open Weather Map API, featuring error handling for user-friendliness.",
+      "technologies": ["Unity", "C#"],
+      "image": "weather.jpg",
+      "playstoreUrl": "https://play.google.com/store/apps/details?id=com.example",
+      "video":"https://youtube.com/play"
+    },
+    {
+      "id": 15,
+      "title": "Wheel Runner (Demo)",
       "type": "Frontend Project",
       "description": "Developed a weather forecasting website with real-time data from Open Weather Map API, featuring error handling for user-friendliness.",
       "technologies": ["Unity", "C#"],

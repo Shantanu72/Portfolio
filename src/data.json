@@ -43,7 +43,7 @@
       "description": "A 2D action platformer based on a color-themed world where some platforms are vibrant while others are blacked out. Players must shoot enemies, collect stars and coins, and reach the end of each level. The game features enemy AI that follows and attacks the player, boss battles, and arena-style combat sections in every level for added challenge.",
       "technologies": ["Unity", "C#"],
       "image": "./spotify.jpg",
-      "playstoreUrl": "https://play.google.com/store/apps/details?id=com.example",
+      "playstoreUrl": "",
       "playUrl": "https://example.com/play",
       "video":"https://youtube.com/play"
     },
@@ -66,7 +66,7 @@
       "technologies": ["Unity", "C#"],
       "image": "././weather.jpg",
       "playstoreUrl": "https://play.google.com/store/apps/details?id=com.example",
-      "playUrl": "https://example.com/play",
+      "playUrl": "",
       "video":"https://youtube.com/play"
     },
     {
@@ -77,7 +77,7 @@
       "technologies": ["Unity", "C#"],
       "image": "./weather.jpg",
       "playstoreUrl": "https://play.google.com/store/apps/details?id=com.example",
-      "playUrl": "https://example.com/play",
+      "playUrl": "",
       "video":"https://youtube.com/play"
     },
     {
@@ -87,8 +87,9 @@
       "description": "A simple and addictive basketball-style tap game where you tap to shoot the ball into the hoop. After each successful goal, the hoop switches sides — from right to left and back — creating a continuous loop. The challenge increases with speed and timing, making it a fun test of precision and rhythm.",
       "technologies": ["Unity", "C#"],
       "image": "./weather.jpg",
-      "playUrl": "https://example.com/play"
-   
+      "playstoreUrl": "https://play.google.com/store/apps/details?id=com.example",
+      "playUrl": "https://example.com/play",
+      "video":"https://youtube.com/play"
     },
     {
       "id": 7,
@@ -97,7 +98,8 @@
       "description": "A fun and challenging tap-based arcade game where a rabbit bounces between two strings, moving only up and down. Tap to switch the rabbit’s position and avoid incoming stones and obstacles. Timing and quick reflexes are key to surviving and scoring high!",
       "technologies": ["Unity", "C#"],
       "image": "./weather.jpg",
-      "playstoreUrl": "https://play.google.com/store/apps/details?id=com.example"
+      "playUrl": "https://example.com/play",
+      "video":"https://youtube.com/play"
     },
     {
       "id": 8,
@@ -116,8 +118,8 @@
       "description": "Developed a weather forecasting website with real-time data from Open Weather Map API, featuring error handling for user-friendliness.",
       "technologies": ["Unity", "C#"],
       "image": "./weather.jpg",
-      "playstoreUrl": "https://play.google.com/store/apps/details?id=com.example",
-      "playUrl": "https://example.com/play"
+      "playUrl": "https://example.com/play",
+      "video":"https://youtube.com/play"
     },
     {
       "id": 10,
@@ -126,7 +128,7 @@
       "description": "Developed a weather forecasting website with real-time data from Open Weather Map API, featuring error handling for user-friendliness.",
       "technologies": ["Unity", "C#"],
       "image": "weather.jpg",
-      "playstoreUrl": "https://play.google.com/store/apps/details?id=com.example",
+      "playstoreUrl": "",
       "video":"https://youtube.com/play"
     },
     {
@@ -136,7 +138,7 @@
       "description": "Developed a weather forecasting website with real-time data from Open Weather Map API, featuring error handling for user-friendliness.",
       "technologies": ["Unity", "C#"],
       "image": "weather.jpg",
-      "playstoreUrl": "https://play.google.com/store/apps/details?id=com.example",
+      "playstoreUrl": "",
       "video":"https://youtube.com/play"
     },
     {
@@ -146,7 +148,7 @@
       "description": "Developed a weather forecasting website with real-time data from Open Weather Map API, featuring error handling for user-friendliness.",
       "technologies": ["Unity", "C#"],
       "image": "weather.jpg",
-      "playstoreUrl": "https://play.google.com/store/apps/details?id=com.example",
+      "playstoreUrl": "",
       "video":"https://youtube.com/play"
     },
     {
@@ -156,7 +158,7 @@
       "description": "Developed a weather forecasting website with real-time data from Open Weather Map API, featuring error handling for user-friendliness.",
       "technologies": ["Unity", "C#"],
       "image": "weather.jpg",
-      "playstoreUrl": "https://play.google.com/store/apps/details?id=com.example",
+      "playstoreUrl": "",
       "video":"https://youtube.com/play"
     },
     {
@@ -166,7 +168,7 @@
       "description": "Developed a weather forecasting website with real-time data from Open Weather Map API, featuring error handling for user-friendliness.",
       "technologies": ["Unity", "C#"],
       "image": "weather.jpg",
-      "playstoreUrl": "https://play.google.com/store/apps/details?id=com.example",
+      "playstoreUrl": "",
       "video":"https://youtube.com/play"
     },
     {
@@ -176,7 +178,7 @@
       "description": "Developed a weather forecasting website with real-time data from Open Weather Map API, featuring error handling for user-friendliness.",
       "technologies": ["Unity", "C#"],
       "image": "./weather.jpg",
-      "playstoreUrl": "https://play.google.com/store/apps/details?id=com.example",
+      "playstoreUrl": "",
       "video":"https://youtube.com/play"
     }
   ],

@@ -5,15 +5,15 @@
   "socialLinks": [
     {
       "icon": "BsWhatsapp",
-      "url": "https://github.com/HJoshi012802"
+      "url": "https://wa.me/qr/23YQGPIFFQHXK1"
     },
     {
       "icon": "FaXTwitter",
-      "url": "https://x.com/HarshitJoshi280"
+      "url": "https://x.com/Shantanu721998?t=sqnXzi5QBzkntFL-5su3cw&s=09"
     },
     {
       "icon": "BsYoutube",
-      "url": "https://www.instagram.com"
+      "url": "https://www.youtube.com/playlist?list=PL0BNHuQoKhsHiBhVI400OPt8gJpbqKazz"
     },
     {
       "icon": "FaLinkedinIn",
@@ -32,7 +32,7 @@
       "description": "A 2D Christmas-themed shooter tower defense game where you play as Santa Claus, defending his cattle barn full of gifts from waves of goblin-like enemies. Santa uses snowballs to stop the enemies before they steal the presents. The game features 7 unique enemy types, a wave-based system, and a coin-based upgrade system that lets you enhance Santa’s abilities by defeating enemies and collecting coins.",
       "technologies": ["Unity", "C#"],
       "image": "./blog.jpg",
-      "playstoreUrl": "https://play.google.com/store/apps/details?id=com.example",
+      "playstoreUrl": "",
       "playUrl": "https://example.com/play",
       "video":"https://youtube.com/play"
     },

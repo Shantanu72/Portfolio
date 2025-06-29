@@ -1,7 +1,7 @@
 {
   "name": "Shantanu Pradhan",
   "title": "Unity Developer",
-  "description": "I build accessible, responsive web<br/>products and digital experiences for the web.",
+  "description": "I’m a Unity Game Developer with 2.5+ years of experience crafting fun and engaging 2D & 3D games for WebGL and native platforms. But beyond the code, I’m also a gamer — someone who understands what makes games enjoyable, addictive, and memorable.\n I don't just develop games — I think about them, play them, and constantly look for creative ways to improve them.\n Whether it's brainstorming a quirky game concept, prototyping something fresh, or giving constructive feedback on a game, I enjoy contributing beyond just development.",
   "socialLinks": [
     {
       "icon": "BsWhatsapp",
@@ -33,8 +33,8 @@
       "technologies": ["Unity", "C#"],
       "image": "./blog.jpg",
       "playstoreUrl": "",
-      "playUrl": "https://example.com/play",
-      "video":"https://youtube.com/play"
+      "playUrl": "https://play.amezgame.com/christmasbattle/index.html",
+      "video": "https://youtube.com/play"
     },
     {
       "id": 2,
@@ -44,8 +44,8 @@
       "technologies": ["Unity", "C#"],
       "image": "./spotify.jpg",
       "playstoreUrl": "",
-      "playUrl": "https://example.com/play",
-      "video":"https://youtube.com/play"
+      "playUrl": "https://play.amezgame.com/thelostcolors/index.html",
+      "video": "https://youtube.com/play"
     },
     {
       "id": 3,
@@ -54,9 +54,9 @@
       "description": "A fun and casual egg-dropping game where eggs fall from the sky and you must tap to bounce them safely into the nest. Avoid hitting platforms or the egg will crack and break! Collect power-ups during gameplay and unlock new egg skins from the in-game shop and is integrated with Firebase Remote Config for dynamic content and feature control.\nA WebGL demo is also available to play online.",
       "technologies": ["Unity", "C#"],
       "image": "./store.jpg",
-      "playstoreUrl": "https://play.google.com/store/apps/details?id=com.example",
-      "playUrl": "https://example.com/play",
-      "video":"https://youtube.com/play"
+      "playstoreUrl": "https://play.google.com/store/apps/details?id=com.appspace.eggdrop",
+      "playUrl": "https://play.amezgame.com/eggdrop/index.html",
+      "video": "https://youtube.com/play"
     },
     {
       "id": 4,
@@ -65,9 +65,9 @@
       "description": "A hidden object puzzle game where players are shown an image filled with various items, and must find and tap specific hidden objects within the scene. The game includes a hint system to help players when they get stuck. It features in-app purchases (IAP) for hints or unlocks, notifications to keep players engaged, and is integrated with Firebase Remote Config for dynamic content and feature control.",
       "technologies": ["Unity", "C#"],
       "image": "././weather.jpg",
-      "playstoreUrl": "https://play.google.com/store/apps/details?id=com.example",
+      "playstoreUrl": "https://play.google.com/store/apps/details?id=search.hidden.object.android.game",
       "playUrl": "",
-      "video":"https://youtube.com/play"
+      "video": "https://youtube.com/play"
     },
     {
       "id": 5,
@@ -76,9 +76,9 @@
       "description": "A collection of three different zig-zag style platformer games, each offering a unique twist on the core mechanic. Players control a moving ball and must tap to avoid obstacles and navigate challenging paths. The game also includes a profile system to track progress, high scores, and unlockables across all three game modes.",
       "technologies": ["Unity", "C#"],
       "image": "./weather.jpg",
-      "playstoreUrl": "https://play.google.com/store/apps/details?id=com.example",
+      "playstoreUrl": "https://play.google.com/store/apps/details?id=com.appspace.zigzag",
       "playUrl": "",
-      "video":"https://youtube.com/play"
+      "video": "https://youtube.com/play"
     },
     {
       "id": 6,
@@ -87,9 +87,8 @@
       "description": "A simple and addictive basketball-style tap game where you tap to shoot the ball into the hoop. After each successful goal, the hoop switches sides — from right to left and back — creating a continuous loop. The challenge increases with speed and timing, making it a fun test of precision and rhythm.",
       "technologies": ["Unity", "C#"],
       "image": "./weather.jpg",
-      "playstoreUrl": "https://play.google.com/store/apps/details?id=com.example",
-      "playUrl": "https://example.com/play",
-      "video":"https://youtube.com/play"
+      "playUrl": "https://play.amezgame.com/taptapball/index.html",
+      "video": "https://youtube.com/play"
     },
     {
       "id": 7,
@@ -98,88 +97,88 @@
       "description": "A fun and challenging tap-based arcade game where a rabbit bounces between two strings, moving only up and down. Tap to switch the rabbit’s position and avoid incoming stones and obstacles. Timing and quick reflexes are key to surviving and scoring high!",
       "technologies": ["Unity", "C#"],
       "image": "./weather.jpg",
-      "playUrl": "https://example.com/play",
-      "video":"https://youtube.com/play"
+      "playUrl": "https://play.amezgame.com/boingyrabbit/index.html",
+      "video": "https://youtube.com/play"
     },
     {
       "id": 8,
       "title": "Bubble Shooter",
-      "type": "Frontend Project",
-      "description": "Developed a weather forecasting website with real-time data from Open Weather Map API, featuring error handling for user-friendliness.",
+      "type": "Casual Puzzle",
+      "description": "Match and pop bubbles in this fun puzzle game! Lives reduce each time you play and refill over time. Use boosters, clear levels, and enjoy bubble-popping fun anytime!",
       "technologies": ["Unity", "C#"],
       "image": "./weather.jpg",
-      "playUrl": "https://example.com/play",
-      "video":"https://youtube.com/play"
+      "playUrl": "https://play.amezgame.com/bubblemaster/index.html",
+      "video": "https://youtube.com/play"
     },
     {
       "id": 9,
       "title": "Bounce ball",
-      "type": "Frontend Project",
-      "description": "Developed a weather forecasting website with real-time data from Open Weather Map API, featuring error handling for user-friendliness.",
+      "type": "Casual",
+      "description": "A relaxing and rhythmic 3D ball bouncing game where a ball automatically bounces from one tile to another. The player controls the ball’s left and right movement to ensure it lands perfectly on the tiles. Each successful bounce plays a piano note, creating a satisfying and musical gameplay experience.",
       "technologies": ["Unity", "C#"],
       "image": "./weather.jpg",
-      "playUrl": "https://example.com/play",
-      "video":"https://youtube.com/play"
+      "playUrl": "https://play.amezgame.com/bouncyball/index.html",
+      "video": "https://youtube.com/play"
     },
     {
       "id": 10,
       "title": "Space Shooter (In Production)",
-      "type": "Frontend Project",
-      "description": "Developed a weather forecasting website with real-time data from Open Weather Map API, featuring error handling for user-friendliness.",
+      "type": "Arcade",
+      "description": "Blast off into the stars in this thrilling Space Shooter game packed with action, strategy, and progression! Navigate a zig-zag level selection menu where each level unlocks in a unique diagonal path, adding a fun twist to classic level progression.",
       "technologies": ["Unity", "C#"],
       "image": "weather.jpg",
       "playstoreUrl": "",
-      "video":"https://youtube.com/play"
+      "video": "https://youtube.com/play"
     },
     {
       "id": 11,
       "title": "Fruit Merge (Demo)",
-      "type": "Frontend Project",
-      "description": "Developed a weather forecasting website with real-time data from Open Weather Map API, featuring error handling for user-friendliness.",
+      "type": "Hybrid Casual",
+      "description": "A creative hybrid casual game where fruits drop into a container and merge with identical fruits to evolve into higher-level fruits. With each successful merge, players earn keys that can be used to build and customize a place or world — combining puzzle merging mechanics with light progression/building elements.",
       "technologies": ["Unity", "C#"],
       "image": "weather.jpg",
       "playstoreUrl": "",
-      "video":"https://youtube.com/play"
+      "video": "https://youtube.com/play"
     },
     {
       "id": 12,
       "title": "Fist Fight (Demo)",
-      "type": "Frontend Project",
-      "description": "Developed a weather forecasting website with real-time data from Open Weather Map API, featuring error handling for user-friendliness.",
+      "type": "Arcade",
+      "description": "A fast-paced martial arts action game inspired by Fist of Fury, where you play as a martial arts master balancing between zen focus and furious combat. Enemies attack from all sides — your goal is to react quickly and strike with perfect timing.",
       "technologies": ["Unity", "C#"],
       "image": "weather.jpg",
       "playstoreUrl": "",
-      "video":"https://youtube.com/play"
+      "video": "https://youtube.com/play"
     },
     {
       "id": 13,
       "title": "Zombie Shooter (Demo)",
-      "type": "Frontend Project",
-      "description": "Developed a weather forecasting website with real-time data from Open Weather Map API, featuring error handling for user-friendliness.",
+      "type": "Survival , Action , Shooter",
+      "description": "A thrilling 3D zombie shooter survival game where the player must fight and hide while making their way to a safe point. Zombies are powered by a smart AI system — they will follow and attack if you get too close or fire your weapon.\nSurvival depends on managing your resources:\nYour flashlight battery drains over time, and you must explore the environment to collect batteries and bullets to stay alive. Stealth, aim, and timing are key in this intense fight for survival.",
       "technologies": ["Unity", "C#"],
       "image": "weather.jpg",
       "playstoreUrl": "",
-      "video":"https://youtube.com/play"
+      "video": "https://youtube.com/play"
     },
     {
       "id": 14,
       "title": "3d Fighting (Demo)",
-      "type": "Frontend Project",
-      "description": "Developed a weather forecasting website with real-time data from Open Weather Map API, featuring error handling for user-friendliness.",
+      "type": "Fighting",
+      "description": "A demo prototype of a 3D fighting game inspired by Tekken 3, built to showcase basic fighting mechanics, character control, and combo-based gameplay. Players can engage in 1v1 matches using a limited set of characters with unique move sets and animations.",
       "technologies": ["Unity", "C#"],
       "image": "weather.jpg",
       "playstoreUrl": "",
-      "video":"https://youtube.com/play"
+      "video": "https://youtube.com/play"
     },
     {
       "id": 15,
       "title": "Wheel Runner (Demo)",
-      "type": "Frontend Project",
-      "description": "Developed a weather forecasting website with real-time data from Open Weather Map API, featuring error handling for user-friendliness.",
+      "type": "Endless Runner",
+      "description": "A fast-paced endless runner inspired by Temple Run, where you control a character running through dangerous paths. Dodge obstacles, slide and jump, and collect coins as you go.",
       "technologies": ["Unity", "C#"],
       "image": "./weather.jpg",
       "playstoreUrl": "",
-      "video":"https://youtube.com/play"
+      "video": "https://youtube.com/play"
     }
   ],
   "experiences": [
@@ -192,16 +191,16 @@
       "technologies": ["Unity", "C#"]
     }
   ],
-  "demo_video":[
-  {
-    "id": "1",
-    "title": "My Demo Video",
-    "youtubeUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-  },
-  {
-    "id": "2",
-    "title": "Another Demo",
-    "youtubeUrl": "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
-  }
-]
+  "demo_video": [
+    {
+      "id": "1",
+      "title": "My Demo Video",
+      "youtubeUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "id": "2",
+      "title": "Another Demo",
+      "youtubeUrl": "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+    }
+  ]
 }

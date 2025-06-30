@@ -17,7 +17,7 @@ export function Video() {
   return (
     <section className="project-section" id="videos">
       <div className="only-experience">
-        <h4>DEMO VIDEOS</h4>
+        <h4>GAMEPLAY VIDEOS</h4>
       </div>
 
       {videoData.demo_video.map((video) => (

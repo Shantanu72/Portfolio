@@ -23,10 +23,10 @@ function Sidebar() {
        <p dangerouslySetInnerHTML={{ __html: data.description }}></p>
         <nav>
           <div className='content-side'>
-            {/* <Link to="#"><span className='first'>ABOUT</span></Link> */}
+            <Link to="#"><span className='first'>ABOUT</span></Link>
             <Link to="#project"><span className='third'>PROJECTS</span></Link>
             <Link to="#experience"><span className='second'>EXPERIENCE</span></Link>
-            <Link to="#videos"><span className='second'>DEMO VIDEOS</span></Link>
+            <Link to="#videos"><span className='second'>GAMEPLAY VIDEOS</span></Link>
           </div>
         </nav>
       </div>

@@ -20,7 +20,11 @@ function Sidebar() {
       <div className='fixed-Intro'>
         <h1>{data.name}</h1>
         <h3>{data.title}</h3>
-       <p dangerouslySetInnerHTML={{ __html: data.description }}></p>
+        <div className='inner-Intro shot-language'>
+       {data.technologies.map((tech,index)=>(
+        <span key={index}>{tech}</span>
+       ))}
+        </div>
         <nav>
           <div className='content-side'>
             {/* <Link to="#"><span className='first'>ABOUT</span></Link> */}

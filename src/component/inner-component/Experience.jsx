@@ -14,9 +14,6 @@ function Experience() {
           <div className="description">
             <h3>
               {experience.company}
-              <span className='arrow'>
-                <FiArrowUpRight />
-              </span>
             </h3>
             <h4>{experience.position}</h4>
             <h4>{experience.role}</h4>

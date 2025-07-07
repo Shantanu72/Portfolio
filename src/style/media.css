@@ -5,9 +5,9 @@
    grid-template-rows: 1fr;
    grid-column-gap: 10px;
    position:relative;
-   margin-left: 136px;
-   margin-right: 80px;
-   margin-top:96px;
+   margin-left: 100px;
+   margin-right: 96px;
+   margin-top:70px;
    margin-bottom: 96px;
    }
    .Intro-side{
@@ -15,6 +15,9 @@
    }
    .fixed-Intro{
       position: fixed;
+   }
+   .inner-Intro{
+      width: 35vw;
    }
    .Intro-side h1{
     font-size:40px;

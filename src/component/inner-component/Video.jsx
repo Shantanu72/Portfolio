@@ -1,12 +1,12 @@
 import { useState } from "react";
 import videoData from "../../data.json";
 
-function getYoutubeThumbnail(url) {
+export function getYoutubeThumbnail(url) {
   const videoId = new URL(url).searchParams.get("v");
   return `https://img.youtube.com/vi/${videoId}/hqdefault.jpg`;
 }
 
-function getYoutubeEmbedUrl(url) {
+ function getYoutubeEmbedUrl(url) {
   const videoId = new URL(url).searchParams.get("v");
   return `https://www.youtube.com/embed/${videoId}?autoplay=1`;
 }

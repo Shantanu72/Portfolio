@@ -1,7 +1,7 @@
 {
   "name": "Shantanu Pradhan",
   "title": "Unity Developer",
-  "description": "I’m a Unity Game Developer with 2.5+  years <br/> of experience crafting fun and engaging  <br/> 2D & 3D games for WebGL and native platforms.",
+  "technologies": ["Unity", "C#", "Firebase", "WebGL", "Game Development", "2D Games", "3D Games", "Game Design", "Game Mechanics", "Game AI", "Game Optimization"],
   "socialLinks": [
     {
       "icon": "BsWhatsapp",
@@ -24,6 +24,11 @@
       "url": "mailto:72shnatanu@gmail.com"
     }
   ],
+   "paragraphs": [
+    "In 2012, my family and I had an unforgettable trip to the Taj Mahal. We got a new camera to capture the special moments, but unfortunately, I accidentally deleted all the photos, leading to a scolding and a profound sense of guilt. This incident sparked my passion for computer science, pushing me to explore digital data recovery to retrieve those lost memories. Since then, I've been captivated by the limitless possibilities and innovations that the world of computer science has to offer.",
+    "My main focus these days is strengthening my computer science skills, specializing in web technology. I'm always up for thrilling coding adventures, aiming to gain expertise and expand my knowledge. In my free time I enjoy writing blogs on computer science and emerging web technologies.",
+    "When I'm not at the computer, I'm usually playing football, hanging out with my friends and family, or running around Dehradun & Mussoorie searching for a new places to explore."
+  ],
   "projects": [
     {
       "id": 1,
@@ -31,10 +36,10 @@
       "type": "2D Shooter Tower Defence",
       "description": "A 2D Christmas-themed shooter tower defense game where you play as Santa Claus, defending his cattle barn full of gifts from waves of goblin-like enemies. Santa uses snowballs to stop the enemies before they steal the presents. The game features 7 unique enemy types, a wave-based system, and a coin-based upgrade system that lets you enhance Santa’s abilities by defeating enemies and collecting coins.",
       "technologies": ["Unity", "C#"],
-      "image": "./blog.jpg",
+      "image": "./store.jpg",
       "playstoreUrl": "",
       "playUrl": "https://play.amezgame.com/christmasbattle/index.html",
-      "video": "https://youtube.com/play"
+      "video": "https://www.youtube.com/watch?v=le7oNkN0Qo0"
     },
     {
       "id": 2,
@@ -42,10 +47,10 @@
       "type": "2D Action Platformer",
       "description": "A 2D action platformer based on a color-themed world where some platforms are vibrant while others are blacked out. Players must shoot enemies, collect stars and coins, and reach the end of each level. The game features enemy AI that follows and attacks the player, boss battles, and arena-style combat sections in every level for added challenge.",
       "technologies": ["Unity", "C#"],
-      "image": "./spotify.jpg",
+      "image": "",
       "playstoreUrl": "",
       "playUrl": "https://play.amezgame.com/thelostcolors/index.html",
-      "video": "https://youtube.com/play"
+      "video": "https://www.youtube.com/watch?v=le7oNkN0Qo0"
     },
     {
       "id": 3,

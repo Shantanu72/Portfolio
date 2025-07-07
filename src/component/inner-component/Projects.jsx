@@ -1,7 +1,24 @@
 import { BsFillBookmarkStarFill } from 'react-icons/bs';
 import projectsData from '../../data.json';
+import { getYoutubeThumbnail } from './Video';
 
 function Projects() {
+  const getImage = (imageUrl, videoUrl) => {
+   
+    if (imageUrl && imageUrl.trim() !== '') {
+      return imageUrl;
+    }
+ 
+    if (videoUrl && videoUrl.includes('youtube.com')) {
+      const thumbnail = getYoutubeThumbnail(videoUrl);
+      if (thumbnail) {
+        return thumbnail;
+      }
+    }
+    
+    return './placeholder.jpg';
+  };
+
   return (
     <section className="project-section" id='project'>
       <div className="only-experience">
@@ -13,8 +30,8 @@ function Projects() {
           <div className="project-image">
             <img 
               className="img" 
-              src={project.image} 
-              alt={project.imageAlt}
+              src={getImage(project.image, project.video)} 
+              alt={project.imageAlt || project.title}
             />
           </div>
           
@@ -28,11 +45,11 @@ function Projects() {
             <h4>{project.type}</h4>
             <p>{project.description}</p>
 
-             <div className="image">
+            <div className="image">
               <img 
                 className="img" 
-                src={project.image} 
-                alt={project.imageAlt}
+                src={getImage(project.image, project.video)} 
+                alt={project.imageAlt || project.title}
               />
             </div>
             
@@ -41,8 +58,6 @@ function Projects() {
                 <span key={index}>{tech}</span>
               ))}
             </div>
-
-           
             
             <div className="project-buttons">
               {project.playstoreUrl && (
@@ -65,7 +80,7 @@ function Projects() {
                   Online
                 </a>
               )}
-               {project.video && (
+              {project.video && (
                 <a 
                   href={project.video} 
                   target="_blank" 

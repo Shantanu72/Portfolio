@@ -35,7 +35,7 @@
       "type": "2D Shooter Tower Defence",
       "description": "A 2D Christmas-themed shooter tower defense game where you play as Santa Claus, defending his cattle barn full of gifts from waves of goblin-like enemies. Santa uses snowballs to stop the enemies before they steal the presents. The game features 7 unique enemy types, a wave-based system, and a coin-based upgrade system that lets you enhance Santa’s abilities by defeating enemies and collecting coins.",
       "technologies": ["Unity", "C#"],
-      "image": "./store.jpg",
+      "image": "",
       "playstoreUrl": "",
       "playUrl": "https://play.amezgame.com/christmasbattle/index.html",
       "video": "https://youtube.com/shorts/Q3EDfRrshuc?feature=share"

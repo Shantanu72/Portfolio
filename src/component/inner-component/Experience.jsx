@@ -1,4 +1,3 @@
-import { FiArrowUpRight } from 'react-icons/fi';
 import experienceData from '../../data.json';
 
 function Experience() {

@@ -35,7 +35,7 @@
       "type": "2D Shooter Tower Defence",
       "description": "A 2D Christmas-themed shooter tower defense game where you play as Santa Claus, defending his cattle barn full of gifts from waves of goblin-like enemies. Santa uses snowballs to stop the enemies before they steal the presents. The game features 7 unique enemy types, a wave-based system, and a coin-based upgrade system that lets you enhance Santa’s abilities by defeating enemies and collecting coins.",
       "technologies": ["Unity", "C#"],
-      "image": "",
+      "image": "./christmasbattle.png",
       "playstoreUrl": "",
       "playUrl": "https://play.amezgame.com/christmasbattle/index.html",
       "video": "https://youtube.com/shorts/Q3EDfRrshuc?feature=share"
@@ -57,10 +57,10 @@
       "type": "Casual",
       "description": "A fun and casual egg-dropping game where eggs fall from the sky and you must tap to bounce them safely into the nest. Avoid hitting platforms or the egg will crack and break! Collect power-ups during gameplay and unlock new egg skins from the in-game shop and is integrated with Firebase Remote Config for dynamic content and feature control.\nA WebGL demo is also available to play online.",
       "technologies": ["Unity", "C#"],
-      "image": "./store.jpg",
+      "image": "./eggdrop.png",
       "playstoreUrl": "https://play.google.com/store/apps/details?id=com.appspace.eggdrop",
       "playUrl": "https://play.amezgame.com/eggdrop/index.html",
-      "video": "https://youtube.com/play"
+      "video": "https://youtube.com/shorts/omeHG4XWIvA?feature=share"
     },
     {
       "id": 4,
@@ -71,7 +71,7 @@
       "image": "././weather.jpg",
       "playstoreUrl": "https://play.google.com/store/apps/details?id=search.hidden.object.android.game",
       "playUrl": "",
-      "video": "https://youtube.com/play"
+      "video": "https://youtube.com/shorts/YfLMXxJAJdE?feature=share"
     },
     {
       "id": 5,
@@ -82,7 +82,7 @@
       "image": "./weather.jpg",
       "playstoreUrl": "https://play.google.com/store/apps/details?id=com.appspace.zigzag",
       "playUrl": "",
-      "video": "https://youtube.com/play"
+      "video": "https://youtube.com/shorts/3sNp9lOksvc?feature=share"
     },
     {
       "id": 6,
@@ -90,9 +90,9 @@
       "type": "Casual",
       "description": "A simple and addictive basketball-style tap game where you tap to shoot the ball into the hoop. After each successful goal, the hoop switches sides — from right to left and back — creating a continuous loop. The challenge increases with speed and timing, making it a fun test of precision and rhythm.",
       "technologies": ["Unity", "C#"],
-      "image": "./weather.jpg",
+      "image": "./taptapball.png",
       "playUrl": "https://play.amezgame.com/taptapball/index.html",
-      "video": "https://youtube.com/play"
+      "video": "https://youtube.com/shorts/VDiDXIIrj34?feature=share"
     },
     {
       "id": 7,
@@ -100,9 +100,9 @@
       "type": "Arcade",
       "description": "A fun and challenging tap-based arcade game where a rabbit bounces between two strings, moving only up and down. Tap to switch the rabbit’s position and avoid incoming stones and obstacles. Timing and quick reflexes are key to surviving and scoring high!",
       "technologies": ["Unity", "C#"],
-      "image": "./weather.jpg",
+      "image": "./boingyrabbit.png",
       "playUrl": "https://play.amezgame.com/boingyrabbit/index.html",
-      "video": "https://youtube.com/play"
+      "video": "https://youtube.com/shorts/EtTWVh5HqI4?feature=share"
     },
     {
       "id": 8,
@@ -110,9 +110,9 @@
       "type": "Casual Puzzle",
       "description": "Match and pop bubbles in this fun puzzle game! Lives reduce each time you play and refill over time. Use boosters, clear levels, and enjoy bubble-popping fun anytime!",
       "technologies": ["Unity", "C#"],
-      "image": "./weather.jpg",
+      "image": "./bubblemaster.png",
       "playUrl": "https://play.amezgame.com/bubblemaster/index.html",
-      "video": "https://youtube.com/play"
+      "video": "https://youtube.com/shorts/U_GLe0TpH18?feature=share"
     },
     {
       "id": 9,
@@ -120,9 +120,9 @@
       "type": "Casual",
       "description": "A relaxing and rhythmic 3D ball bouncing game where a ball automatically bounces from one tile to another. The player controls the ball’s left and right movement to ensure it lands perfectly on the tiles. Each successful bounce plays a piano note, creating a satisfying and musical gameplay experience.",
       "technologies": ["Unity", "C#"],
-      "image": "./weather.jpg",
+      "image": "./bouncyball.png",
       "playUrl": "https://play.amezgame.com/bouncyball/index.html",
-      "video": "https://youtube.com/play"
+      "video": "https://youtube.com/shorts/LPeCwp2OLlI?feature=share"
     },
     {
       "id": 10,

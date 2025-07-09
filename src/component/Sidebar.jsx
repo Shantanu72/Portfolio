@@ -7,9 +7,7 @@ import { FaFilePdf } from "react-icons/fa6";
 
 import data from '../data.json';
 
-// Mapping icon names from JSON to actual components
 const iconMap = {
-  // BsWhatsapp: <BsWhatsapp />,
   FaXTwitter: <FaXTwitter />,
   BsYoutube: <BsYoutube />,
   FaLinkedinIn: <FaLinkedinIn />,
@@ -30,7 +28,6 @@ function Sidebar() {
         </div>
         <nav>
           <div className='content-side'>
-            {/* <Link to="#"><span className='first'>ABOUT</span></Link> */}
             <Link to="#project"><span className='third'>PROJECTS</span></Link>
             <Link to="#experience"><span className='second'>EXPERIENCE</span></Link>
             <Link to="#videos"><span className='second'>GAMEPLAY VIDEOS</span></Link>

@@ -4,7 +4,6 @@
 @media (width >=600px  ) and (width < 1024px) {
     .App{
      margin: 0px 50px;
-     margin-top:60px; 
     }
     .Intro-side h1{
      font-size:48px;

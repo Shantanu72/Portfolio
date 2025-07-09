@@ -1,17 +1,20 @@
-import { BsWhatsapp, BsYoutube } from 'react-icons/bs';
+import {  BsYoutube } from 'react-icons/bs';
 import { FaLinkedinIn } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
 import { MdEmail } from "react-icons/md";
 import { HashLink as Link } from 'react-router-hash-link';
+import { FaFilePdf } from "react-icons/fa6";
+
 import data from '../data.json';
 
 // Mapping icon names from JSON to actual components
 const iconMap = {
-  BsWhatsapp: <BsWhatsapp />,
+  // BsWhatsapp: <BsWhatsapp />,
   FaXTwitter: <FaXTwitter />,
   BsYoutube: <BsYoutube />,
   FaLinkedinIn: <FaLinkedinIn />,
-  MdEmail: <MdEmail />
+  MdEmail: <MdEmail />,
+  MdDownload : <FaFilePdf/>
 };
 
 function Sidebar() {

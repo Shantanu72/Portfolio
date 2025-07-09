@@ -173,6 +173,7 @@
       width:115px;
       height:85px;
       border-radius: 6px;
+       object-fit: cover;
       border:var(--border);
    }
    .bookmark-icon{

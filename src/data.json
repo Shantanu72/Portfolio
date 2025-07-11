@@ -47,7 +47,7 @@
       "type": "2D Action Platformer",
       "description": "A 2D action platformer based on a color-themed world where some platforms are vibrant while others are blacked out. Players must shoot enemies, collect stars and coins, and reach the end of each level. The game features enemy AI that follows and attacks the player, boss battles, and arena-style combat sections in every level for added challenge.",
       "technologies": ["Unity", "C#"],
-      "image": "",
+      "image": "https://play.amezgame.com/thelostcolors/logo.png",
       "playstoreUrl": "",
       "playUrl": "https://play.amezgame.com/thelostcolors/index.html",
       "video": "https://youtu.be/8iDOyBgfddw?si=LqcUjV3vebtllpBd"
@@ -91,7 +91,7 @@
       "type": "Casual",
       "description": "A simple and addictive basketball-style tap game where you tap to shoot the ball into the hoop. After each successful goal, the hoop switches sides — from right to left and back — creating a continuous loop. The challenge increases with speed and timing, making it a fun test of precision and rhythm.",
       "technologies": ["Unity", "C#"],
-      "image": "./taptapball.png",
+      "image": "https://asset.amezgame.com/websitegameiconwebp/taptapball.webp",
       "playUrl": "https://play.amezgame.com/taptapball/index.html",
       "video": "https://youtube.com/shorts/VDiDXIIrj34?feature=share"
     },
@@ -205,17 +205,17 @@
     {
       "id": "2",
       "title": "Terrain Making",
-      "youtubeUrl": "https://youtu.be/5k37SjZjZXo"
+      "youtubeUrl": "https://www.youtube.com/watch?v=5k37SjZjZXo"
     },
     {
       "id": "3",
       "title": "Pro Builder",
-      "youtubeUrl": "https://youtu.be/bMPUiSLdHs8"
+      "youtubeUrl": "https://www.youtube.com/watch?v=bMPUiSLdHs8"
     },
     {
       "id": "4",
       "title": "Master Timeline",
-      "youtubeUrl": "https://youtu.be/eo3qXpFiN1k"
+      "youtubeUrl": "https://www.youtube.com/watch?v=eo3qXpFiN1k"
     }
   ]
 }

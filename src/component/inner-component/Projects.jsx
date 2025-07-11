@@ -77,7 +77,7 @@ function Projects() {
                   rel="noopener noreferrer" 
                   className="btn"
                 >
-                  Online
+                Play
                 </a>
               )}
               {project.video && (

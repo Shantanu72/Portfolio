@@ -50,7 +50,7 @@
       "image": "",
       "playstoreUrl": "",
       "playUrl": "https://play.amezgame.com/thelostcolors/index.html",
-      "video": "https://www.youtube.com/watch?v=le7oNkN0Qo0"
+      "video": "https://youtu.be/8iDOyBgfddw?si=LqcUjV3vebtllpBd"
     },
     {
       "id": 3,
@@ -80,7 +80,7 @@
       "type": "Arcade",
       "description": "A collection of three different zig-zag style platformer games, each offering a unique twist on the core mechanic. Players control a moving ball and must tap to avoid obstacles and navigate challenging paths. The game also includes a profile system to track progress, high scores, and unlockables across all three game modes.",
       "technologies": ["Unity", "C#"],
-      "image": "./weather.jpg",
+      "image": "./zigzagzone.png",
       "playstoreUrl": "https://play.google.com/store/apps/details?id=com.appspace.zigzag",
       "playUrl": "",
       "video": "https://youtube.com/shorts/3sNp9lOksvc?feature=share"
@@ -133,7 +133,7 @@
       "technologies": ["Unity", "C#"],
       "image": "weather.jpg",
       "playstoreUrl": "",
-      "video": "https://youtube.com/play"
+      "video": "https://youtube.com/shorts/Yg3No7dcZec?feature=share"
     },
     {
       "id": 11,
@@ -163,7 +163,7 @@
       "technologies": ["Unity", "C#"],
       "image": "weather.jpg",
       "playstoreUrl": "",
-      "video": "https://youtube.com/play"
+      "video": "https://youtu.be/XNnGHgG05tc"
     },
     {
       "id": 14,
@@ -204,8 +204,18 @@
     },
     {
       "id": "2",
-      "title": "Another Demo",
-      "youtubeUrl": "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+      "title": "Terrain Making",
+      "youtubeUrl": "https://youtu.be/5k37SjZjZXo"
+    },
+    {
+      "id": "3",
+      "title": "Pro Builder",
+      "youtubeUrl": "https://youtu.be/bMPUiSLdHs8"
+    },
+    {
+      "id": "4",
+      "title": "Master Timeline",
+      "youtubeUrl": "https://youtu.be/eo3qXpFiN1k"
     }
   ]
 }

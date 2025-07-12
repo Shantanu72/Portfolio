@@ -131,7 +131,7 @@
       "type": "Arcade",
       "description": "Blast off into the stars in this thrilling Space Shooter game packed with action, strategy, and progression! Navigate a zig-zag level selection menu where each level unlocks in a unique diagonal path, adding a fun twist to classic level progression.",
       "technologies": ["Unity", "C#"],
-      "image": "weather.jpg",
+      "image": "shapeshooter.png",
       "playstoreUrl": "",
       "video": "https://youtube.com/shorts/Yg3No7dcZec?feature=share"
     },
@@ -161,7 +161,7 @@
       "type": "Survival , Action , Shooter",
       "description": "A thrilling 3D zombie shooter survival game where the player must fight and hide while making their way to a safe point. Zombies are powered by a smart AI system — they will follow and attack if you get too close or fire your weapon.\nSurvival depends on managing your resources:\nYour flashlight battery drains over time, and you must explore the environment to collect batteries and bullets to stay alive. Stealth, aim, and timing are key in this intense fight for survival.",
       "technologies": ["Unity", "C#"],
-      "image": "weather.jpg",
+      "image": "",
       "playstoreUrl": "",
       "video": "https://youtu.be/XNnGHgG05tc"
     },

@@ -1,18 +1,20 @@
+import { BsWhatsapp } from 'react-icons/bs';
 import {  BsYoutube } from 'react-icons/bs';
 import { FaLinkedinIn } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
 import { MdEmail } from "react-icons/md";
 import { HashLink as Link } from 'react-router-hash-link';
-import { FaFilePdf } from "react-icons/fa6";
+//import { FaFilePdf } from "react-icons/fa6";
 
 import data from '../data.json';
 
 const iconMap = {
+  BsWhatsapp: <BsWhatsapp />,
   FaXTwitter: <FaXTwitter />,
   BsYoutube: <BsYoutube />,
   FaLinkedinIn: <FaLinkedinIn />,
   MdEmail: <MdEmail />,
-  MdDownload : <FaFilePdf/>
+  //MdDownload : <FaFilePdf/>
 };
 
 function Sidebar() {

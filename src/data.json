@@ -5,7 +5,7 @@
   "socialLinks": [
      {
        "icon": "BsWhatsapp",
-       "url": "https://wa.me/qr/23YQGPIFFQHXK1"
+       "url": "https://api.whatsapp.com/send/?phone=7985525210&text&type=phone_number&app_absent=0"
     },
     {
       "icon": "FaXTwitter",

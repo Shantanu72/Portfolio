@@ -137,26 +137,6 @@
     },
     {
       "id": 11,
-      "title": "Fruit Merge (Demo)",
-      "type": "Hybrid Casual",
-      "description": "A creative hybrid casual game where fruits drop into a container and merge with identical fruits to evolve into higher-level fruits. With each successful merge, players earn keys that can be used to build and customize a place or world — combining puzzle merging mechanics with light progression/building elements.",
-      "technologies": ["Unity", "C#"],
-      "image": "weather.jpg",
-      "playstoreUrl": "",
-      "video": "https://youtube.com/play"
-    },
-    {
-      "id": 12,
-      "title": "Fist Fight (Demo)",
-      "type": "Arcade",
-      "description": "A fast-paced martial arts action game inspired by Fist of Fury, where you play as a martial arts master balancing between zen focus and furious combat. Enemies attack from all sides — your goal is to react quickly and strike with perfect timing.",
-      "technologies": ["Unity", "C#"],
-      "image": "weather.jpg",
-      "playstoreUrl": "",
-      "video": "https://youtube.com/play"
-    },
-    {
-      "id": 13,
       "title": "Zombie Shooter (Demo)",
       "type": "Survival , Action , Shooter",
       "description": "A thrilling 3D zombie shooter survival game where the player must fight and hide while making their way to a safe point. Zombies are powered by a smart AI system — they will follow and attack if you get too close or fire your weapon.\nSurvival depends on managing your resources:\nYour flashlight battery drains over time, and you must explore the environment to collect batteries and bullets to stay alive. Stealth, aim, and timing are key in this intense fight for survival.",
@@ -166,7 +146,17 @@
       "video": "https://youtu.be/XNnGHgG05tc"
     },
     {
-      "id": 14,
+      "id": 12,
+      "title": "Fist Fight (Demo)",
+      "type": "Arcade",
+      "description": "A fast-paced martial arts action game inspired by Fist of Fury, where you play as a martial arts master balancing between zen focus and furious combat. Enemies attack from all sides — your goal is to react quickly and strike with perfect timing.",
+      "technologies": ["Unity", "C#"],
+      "image": "fistoffury.png",
+      "playstoreUrl": "",
+      "video": "https://youtube.com/shorts/4NEWB4Zl1qk?feature=share"
+    },
+    {
+      "id": 13,
       "title": "3d Fighting (Demo)",
       "type": "Fighting",
       "description": "A demo prototype of a 3D fighting game inspired by Tekken 3, built to showcase basic fighting mechanics, character control, and combo-based gameplay. Players can engage in 1v1 matches using a limited set of characters with unique move sets and animations.",
@@ -176,7 +166,7 @@
       "video": "https://youtu.be/Z-7F_ejRpks"
     },
     {
-      "id": 15,
+      "id": 14,
       "title": "Wheel Runner (Demo)",
       "type": "Endless Runner",
       "description": "A fast-paced endless runner inspired by Temple Run, where you control a character running through dangerous paths. Dodge obstacles, slide and jump, and collect coins as you go.",
@@ -199,8 +189,8 @@
   "demo_video": [
     {
       "id": "1",
-      "title": "My Demo Video",
-      "youtubeUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+      "title": "Show Reel",
+      "youtubeUrl": "https://youtu.be/qIYYTQ8rvtg"
     },
     {
       "id": "2",

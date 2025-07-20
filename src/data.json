@@ -94,9 +94,19 @@
       "image": "taptapball.png",
       "playUrl": "https://play.amezgame.com/taptapball/index.html",
       "video": "https://youtube.com/shorts/VDiDXIIrj34?feature=share"
-    },
+    },    
     {
       "id": 7,
+      "title": "Scrambled Words",
+      "type": "Educational",
+      "description": "A fun and brain-teasing word puzzle game where scrambled words challenge your mind! Swap letters to form the correct word and sharpen your vocabulary skills.",
+      "technologies": ["Unity", "C#"],
+      "image": "scrambledwords.png",
+      "playUrl": "https://play.amezgame.com/scrambledwords/index.html",
+      "video": "https://youtu.be/xReoPjIFn34"
+    },
+    {
+      "id": 8,
       "title": "Boingy Rabbit",
       "type": "Arcade",
       "description": "A fun and challenging tap-based arcade game where a rabbit bounces between two strings, moving only up and down. Tap to switch the rabbit’s position and avoid incoming stones and obstacles. Timing and quick reflexes are key to surviving and scoring high!",
@@ -106,7 +116,7 @@
       "video": "https://youtube.com/shorts/EtTWVh5HqI4?feature=share"
     },
     {
-      "id": 8,
+      "id": 9,
       "title": "Bubble Shooter",
       "type": "Casual Puzzle",
       "description": "Match and pop bubbles in this fun puzzle game! Lives reduce each time you play and refill over time. Use boosters, clear levels, and enjoy bubble-popping fun anytime!",
@@ -116,7 +126,7 @@
       "video": "https://youtube.com/shorts/U_GLe0TpH18?feature=share"
     },
     {
-      "id": 9,
+      "id": 10,
       "title": "Bounce ball",
       "type": "Casual",
       "description": "A relaxing and rhythmic 3D ball bouncing game where a ball automatically bounces from one tile to another. The player controls the ball’s left and right movement to ensure it lands perfectly on the tiles. Each successful bounce plays a piano note, creating a satisfying and musical gameplay experience.",
@@ -126,7 +136,7 @@
       "video": "https://youtube.com/shorts/LPeCwp2OLlI?feature=share"
     },
     {
-      "id": 10,
+      "id": 11,
       "title": "Space Shooter (In Production)",
       "type": "Arcade",
       "description": "Blast off into the stars in this thrilling Space Shooter game packed with action, strategy, and progression! Navigate a zig-zag level selection menu where each level unlocks in a unique diagonal path, adding a fun twist to classic level progression.",
@@ -136,7 +146,7 @@
       "video": "https://youtube.com/shorts/Yg3No7dcZec?feature=share"
     },
     {
-      "id": 11,
+      "id": 12,
       "title": "Zombie Shooter (Demo)",
       "type": "Survival , Action , Shooter",
       "description": "A thrilling 3D zombie shooter survival game where the player must fight and hide while making their way to a safe point. Zombies are powered by a smart AI system — they will follow and attack if you get too close or fire your weapon.\nSurvival depends on managing your resources:\nYour flashlight battery drains over time, and you must explore the environment to collect batteries and bullets to stay alive. Stealth, aim, and timing are key in this intense fight for survival.",
@@ -146,7 +156,7 @@
       "video": "https://youtu.be/XNnGHgG05tc"
     },
     {
-      "id": 12,
+      "id": 13,
       "title": "Fist Fight (Demo)",
       "type": "Arcade",
       "description": "A fast-paced martial arts action game inspired by Fist of Fury, where you play as a martial arts master balancing between zen focus and furious combat. Enemies attack from all sides — your goal is to react quickly and strike with perfect timing.",
@@ -156,7 +166,7 @@
       "video": "https://youtube.com/shorts/4NEWB4Zl1qk?feature=share"
     },
     {
-      "id": 13,
+      "id": 14,
       "title": "3d Fighting (Demo)",
       "type": "Fighting",
       "description": "A demo prototype of a 3D fighting game inspired by Tekken 3, built to showcase basic fighting mechanics, character control, and combo-based gameplay. Players can engage in 1v1 matches using a limited set of characters with unique move sets and animations.",
@@ -166,7 +176,7 @@
       "video": "https://youtu.be/Z-7F_ejRpks"
     },
     {
-      "id": 14,
+      "id": 15,
       "title": "Wheel Runner (Demo)",
       "type": "Endless Runner",
       "description": "A fast-paced endless runner inspired by Temple Run, where you control a character running through dangerous paths. Dodge obstacles, slide and jump, and collect coins as you go.",

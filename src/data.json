@@ -31,8 +31,19 @@
   ],
   "projects": [
     {
+      "id": 17,
+      "title": "Office War (Office Hackathon)",
+      "type": "2d Top Down Survival",
+      "description": "Office War is a frantic top-down survival shooter where your only ally is a broken office printer. Dodge, jam, and improvise your way through waves of coworkers using broken printer, laptop, chair and toner-powered chaos. Built in 9 hours for the hackathon, full roadmap for upgrades and polish post-event.",
+      "technologies": ["Unity", "C#"],
+      "image": "./OfficeWar.jpg",
+      "playstoreUrl": "",
+      "playUrl": "https://webgl-games.vercel.app/officewar/index.html",
+      "video": "https://www.youtube.com/watch?v=tFGsTZOo1vM"
+    },
+    {
       "id": 16,
-      "title": "Brainrot Fusion",
+      "title": "Brainrot Fusion (Crazy Games)",
       "type": "Drop Merge Hyper Casual",
       "description": "Brainrot Fusion is a 2D hyper-casual drop-and-merge game where players drop quirky, brainrot-style objects into a container. When identical or compatible objects collide, they fuse into a new, evolved form — unlocking higher-tier, weirder creations. Each level sets a target object to form, challenging players to plan their drops and manage limited space strategically. Simple to play, but addictively satisfying, Brainrot Fusion blends chaos, humor, and progression into a fast-paced merge frenzy.",
       "technologies": ["Unity", "C#"],

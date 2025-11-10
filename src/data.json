@@ -31,6 +31,17 @@
   ],
   "projects": [
     {
+      "id": 16,
+      "title": "Brainrot Fusion",
+      "type": "Drop Merge Hyper Casual",
+      "description": "Brainrot Fusion is a 2D hyper-casual drop-and-merge game where players drop quirky, brainrot-style objects into a container. When identical or compatible objects collide, they fuse into a new, evolved form — unlocking higher-tier, weirder creations. Each level sets a target object to form, challenging players to plan their drops and manage limited space strategically. Simple to play, but addictively satisfying, Brainrot Fusion blends chaos, humor, and progression into a fast-paced merge frenzy.",
+      "technologies": ["Unity", "C#"],
+      "image": "./brainrotFusion.jpg",
+      "playstoreUrl": "",
+      "playUrl": "https://www.crazygames.com/game/brainrot-fusion",
+      "video": "https://www.youtube.com/watch?v=RgxTmjgkVOA"
+    },
+    {
       "id": 1,
       "title": "Christmas Battle",
       "type": "2D Shooter Tower Defence",

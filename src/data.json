@@ -33,13 +33,24 @@
     {
       "id": 18,
       "title": "Findlyy – Spot the Differences",
-      "type": "Find the Differences",
+      "type": "Find the Differences, Puzzle",
       "description": "A fun 2D Find the Difference puzzle game where players spot hidden differences between similar images using simple tap controls. With engaging visuals and increasing difficulty, the game has reached 1M+ downloads and is enjoyed by casual puzzle lovers worldwide.",
       "technologies": ["Unity", "C#"],
       "image": "./Findlly.jpg",
       "playstoreUrl": "https://play.google.com/store/apps/details?id=games.find.diff.gamma&pcampaignid=web_share",
       "playUrl": "",
       "video": "https://youtube.com/shorts/D9ATMxyOEas?feature=share"
+    },
+    {
+      "id": 19,
+      "title": "Hole King: Black Hole Game",
+      "type": "3D Hole, Arcade",
+      "description": "A fun and addictive 3D hole arcade game where you control a growing hole that swallows everything on the map. Move around, eat objects to grow bigger, and clear the area before time runs out. Simple controls, fast-paced gameplay, and satisfying progression make it easy to play and hard to stop.",
+      "technologies": ["Unity", "C#"],
+      "image": "./holeKing.jpg",
+      "playstoreUrl": "https://play.google.com/store/apps/details?id=amezgame.allinone.holegame&pcampaignid=web_share",
+      "playUrl": "",
+      "video": "https://youtube.com/shorts/KAn2-PzCRRQ?feature=share"
     },
     {
       "id": 1,

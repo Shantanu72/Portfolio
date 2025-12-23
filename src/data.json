@@ -31,26 +31,15 @@
   ],
   "projects": [
     {
-      "id": 17,
-      "title": "Office War (Office Hackathon)",
-      "type": "2d Top Down Survival",
-      "description": "Office War is a frantic top-down survival shooter where your only ally is a broken office printer. Dodge, jam, and improvise your way through waves of coworkers using broken printer, laptop, chair and toner-powered chaos. Built in 9 hours for the hackathon, full roadmap for upgrades and polish post-event.",
+      "id": 18,
+      "title": "Findlyy – Spot the Differences",
+      "type": "Find the Differences",
+      "description": "A fun 2D Find the Difference puzzle game where players spot hidden differences between similar images using simple tap controls. With engaging visuals and increasing difficulty, the game has reached 1M+ downloads and is enjoyed by casual puzzle lovers worldwide.",
       "technologies": ["Unity", "C#"],
-      "image": "./OfficeWar.jpg",
-      "playstoreUrl": "",
-      "playUrl": "https://webgl-games.vercel.app/officewar/index.html",
-      "video": "https://www.youtube.com/watch?v=tFGsTZOo1vM"
-    },
-    {
-      "id": 16,
-      "title": "Brainrot Fusion (Crazy Games)",
-      "type": "Drop Merge Hyper Casual",
-      "description": "Brainrot Fusion is a 2D hyper-casual drop-and-merge game where players drop quirky, brainrot-style objects into a container. When identical or compatible objects collide, they fuse into a new, evolved form — unlocking higher-tier, weirder creations. Each level sets a target object to form, challenging players to plan their drops and manage limited space strategically. Simple to play, but addictively satisfying, Brainrot Fusion blends chaos, humor, and progression into a fast-paced merge frenzy.",
-      "technologies": ["Unity", "C#"],
-      "image": "./brainrotFusion.jpg",
-      "playstoreUrl": "",
-      "playUrl": "https://www.crazygames.com/game/brainrot-fusion",
-      "video": "https://www.youtube.com/watch?v=RgxTmjgkVOA"
+      "image": "./Findlly.jpg",
+      "playstoreUrl": "https://play.google.com/store/apps/details?id=games.find.diff.gamma&pcampaignid=web_share",
+      "playUrl": "",
+      "video": "https://youtube.com/shorts/D9ATMxyOEas?feature=share"
     },
     {
       "id": 1,
@@ -73,6 +62,38 @@
       "playstoreUrl": "",
       "playUrl": "https://play.amezgame.com/thelostcolors/index.html",
       "video": "https://youtu.be/8iDOyBgfddw?si=LqcUjV3vebtllpBd"
+    },
+    {
+      "id": 12,
+      "title": "Zombie Shooter (Demo)",
+      "type": "Survival , Action , Shooter",
+      "description": "A thrilling 3D zombie shooter survival game where the player must fight and hide while making their way to a safe point. Zombies are powered by a smart AI system — they will follow and attack if you get too close or fire your weapon.\nSurvival depends on managing your resources:\nYour flashlight battery drains over time, and you must explore the environment to collect batteries and bullets to stay alive. Stealth, aim, and timing are key in this intense fight for survival.",
+      "technologies": ["Unity", "C#"],
+      "image": "zombieShooter.png",
+      "playstoreUrl": "",
+      "video": "https://youtu.be/XNnGHgG05tc"
+    },
+    {
+      "id": 17,
+      "title": "Office War (Office Hackathon)",
+      "type": "2d Top Down Survival",
+      "description": "Office War is a frantic top-down survival shooter where your only ally is a broken office printer. Dodge, jam, and improvise your way through waves of coworkers using broken printer, laptop, chair and toner-powered chaos. Built in 9 hours for the hackathon, full roadmap for upgrades and polish post-event.",
+      "technologies": ["Unity", "C#"],
+      "image": "./OfficeWar.jpg",
+      "playstoreUrl": "",
+      "playUrl": "https://webgl-games.vercel.app/officewar/index.html",
+      "video": "https://www.youtube.com/watch?v=tFGsTZOo1vM"
+    },
+    {
+      "id": 16,
+      "title": "Brainrot Fusion (Crazy Games)",
+      "type": "Drop Merge Hyper Casual",
+      "description": "Brainrot Fusion is a 2D hyper-casual drop-and-merge game where players drop quirky, brainrot-style objects into a container. When identical or compatible objects collide, they fuse into a new, evolved form — unlocking higher-tier, weirder creations. Each level sets a target object to form, challenging players to plan their drops and manage limited space strategically. Simple to play, but addictively satisfying, Brainrot Fusion blends chaos, humor, and progression into a fast-paced merge frenzy.",
+      "technologies": ["Unity", "C#"],
+      "image": "./brainrotFusion.jpg",
+      "playstoreUrl": "",
+      "playUrl": "https://www.crazygames.com/game/brainrot-fusion",
+      "video": "https://www.youtube.com/watch?v=RgxTmjgkVOA"
     },
     {
       "id": 3,
@@ -166,16 +187,6 @@
       "image": "shapeshooter.png",
       "playstoreUrl": "",
       "video": "https://youtube.com/shorts/Yg3No7dcZec?feature=share"
-    },
-    {
-      "id": 12,
-      "title": "Zombie Shooter (Demo)",
-      "type": "Survival , Action , Shooter",
-      "description": "A thrilling 3D zombie shooter survival game where the player must fight and hide while making their way to a safe point. Zombies are powered by a smart AI system — they will follow and attack if you get too close or fire your weapon.\nSurvival depends on managing your resources:\nYour flashlight battery drains over time, and you must explore the environment to collect batteries and bullets to stay alive. Stealth, aim, and timing are key in this intense fight for survival.",
-      "technologies": ["Unity", "C#"],
-      "image": "zombieShooter.png",
-      "playstoreUrl": "",
-      "video": "https://youtu.be/XNnGHgG05tc"
     },
     {
       "id": 13,

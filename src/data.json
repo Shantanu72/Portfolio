@@ -32,7 +32,7 @@
   "projects": [
     {
       "id": 19,
-      "title": "Prison Break (Personal Project)",
+      "title": "Cage Down (Personal Project)",
       "type": "3d Escape the Prison",
       "description": "A 3D prison escape puzzle game where players collect keys to open doors, move carefully to avoid making noise, solve environmental puzzles, and find the exit to escape. Built as a personal project to showcase stealth mechanics, level design, and puzzle-based gameplay.",
       "technologies": ["Unity", "C#"],

@@ -244,10 +244,18 @@
   "experiences": [
     {
       "id": 1,
-      "year": "Dec 2022 - present",
+      "year": "Dec 2022 - Feb 2026",
       "company": "Rareprob Solution Private Limited",
       "position": "Unity Game Developer",
       "description": "Experienced Unity Game Developer with expertise in developing both 2D and 3D games for WebGL and native platforms. Proficient in Firebase integration, ads implementation, and optimizing games for performance and memory efficiency. Skilled in creating universal packages for modular development. Strong creative sense in designing unique gameplay, engaging storylines, and thematic game worlds. Experienced in terrain creation for 3D environments and animation systems using Unity's Timeline and DOTween for smooth character and UI animations. Also well-versed in building physics systems and delivering polished user experiences across platforms.",
+      "technologies": ["Unity", "C#"]
+    },
+    {
+      "id": 2,
+      "year": "March 2026 - Present",
+      "company": "Ares Studio (Contract)",
+      "position": "Mid Unity Game Developer",
+      "description": "Contributed to a 3D game prototype handling lighting, materials, and spline-based systems, while also building ad-focused game variants for Voodoo with simplified gameplay, custom logic, and optimized performance for fast loading and smooth execution.",
       "technologies": ["Unity", "C#"]
     }
   ],

@@ -31,6 +31,17 @@
   ],
   "projects": [
     {
+      "id": 19,
+      "title": "Cage Down (Personal Project)",
+      "type": "3d Escape the Prison",
+      "description": "A 3D prison escape puzzle game where players collect keys to open doors, move carefully to avoid making noise, solve environmental puzzles, and find the exit to escape. Built as a personal project to showcase stealth mechanics, level design, and puzzle-based gameplay.",
+      "technologies": ["Unity", "C#"],
+      "image": "./prisonbreak.png",
+      "playstoreUrl": "",
+      "playUrl": "https://benevolent-frangollo-f2b182.netlify.app/",
+      "video": ""
+    },
+    {
       "id": 18,
       "title": "Findlyy – Spot the Differences",
       "type": "Find the Differences, Puzzle",
